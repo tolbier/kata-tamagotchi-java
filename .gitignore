@@ -1,3 +1,6 @@
 .idea
 kata-tamagotchi.iml
 out
+global-groovy.log
+soapui-errors.log
+soapui.log
