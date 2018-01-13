@@ -1,14 +1,15 @@
 package tamagotchi;
 
-import org.junit.jupiter.api.Test;
+
+import org.junit.Test;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
 
-class TamagotchiTest {
+public class TamagotchiTest {
 
     @Test
-    void test_works() {
+    public void test_works() {
         assertThat(true, is(false));
     }
 }
