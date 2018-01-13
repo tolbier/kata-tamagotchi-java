@@ -4,3 +4,7 @@ out
 global-groovy.log
 soapui-errors.log
 soapui.log
+.classpath
+.project
+.settings/
+/target/

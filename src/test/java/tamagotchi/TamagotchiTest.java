@@ -10,6 +10,6 @@ public class TamagotchiTest {
 
     @Test
     public void test_works() {
-        assertThat(true, is(false));
+        assertThat(true, is(true));
     }
 }
